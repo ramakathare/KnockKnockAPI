@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockKnock.API", "KnockKnock.API\KnockKnock.API.csproj", "{F81E9019-00B1-42D6-90D5-2F966410080B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnockKnock.Services", "KnockKnock.Services\KnockKnock.Services.csproj", "{4AD7AEBF-A324-497A-A499-A16D55D6373A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81E9019-00B1-42D6-90D5-2F966410080B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81E9019-00B1-42D6-90D5-2F966410080B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81E9019-00B1-42D6-90D5-2F966410080B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81E9019-00B1-42D6-90D5-2F966410080B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD7AEBF-A324-497A-A499-A16D55D6373A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD7AEBF-A324-497A-A499-A16D55D6373A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD7AEBF-A324-497A-A499-A16D55D6373A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD7AEBF-A324-497A-A499-A16D55D6373A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB37B6CB-2EE2-46CF-AC44-C178C412FF8E}
+	EndGlobalSection
+EndGlobal
